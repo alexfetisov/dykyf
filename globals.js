@@ -1,0 +1,1 @@
+var is_timer_finished = false;
